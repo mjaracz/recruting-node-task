@@ -1,0 +1,508 @@
+[
+  {
+    "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+    "id": "10130",
+    "name": "Backend",
+    "assigneeType": "PROJECT_DEFAULT",
+    "realAssigneeType": "PROJECT_DEFAULT",
+    "isAssigneeTypeValid": false,
+    "project": "SP",
+    "projectId": 11349,
+    "relatedIssues": [
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51259",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51259",
+        "key": "SP-155",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51248",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51248",
+        "key": "SP-144",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            },
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+              "id": "10131",
+              "name": "Templates"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51246",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51246",
+        "key": "SP-142",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51244",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51244",
+        "key": "SP-140",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            },
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10129",
+              "id": "10129",
+              "name": "Frontend"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51242",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51242",
+        "key": "SP-138",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51239",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51239",
+        "key": "SP-135",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51237",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51237",
+        "key": "SP-133",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51235",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51235",
+        "key": "SP-131",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51230",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51230",
+        "key": "SP-126",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            },
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+              "id": "10131",
+              "name": "Templates"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51229",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51229",
+        "key": "SP-125",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51226",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51226",
+        "key": "SP-122",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            },
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10129",
+              "id": "10129",
+              "name": "Frontend"
+            },
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10127",
+              "id": "10127",
+              "name": "Importers"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51220",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51220",
+        "key": "SP-116",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            },
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10129",
+              "id": "10129",
+              "name": "Frontend"
+            },
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+              "id": "10131",
+              "name": "Templates"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51219",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51219",
+        "key": "SP-115",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "self": "https://herocoders.atlassian.net/rest/api/3/component/10128",
+    "id": "10128",
+    "name": "Synchronization",
+    "assigneeType": "PROJECT_DEFAULT",
+    "realAssigneeType": "PROJECT_DEFAULT",
+    "isAssigneeTypeValid": false,
+    "project": "SP",
+    "projectId": 11349,
+    "relatedIssues": [
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51266",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51266",
+        "key": "SP-162",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10128",
+              "id": "10128",
+              "name": "Synchronization"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51263",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51263",
+        "key": "SP-159",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10128",
+              "id": "10128",
+              "name": "Synchronization"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51223",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51223",
+        "key": "SP-119",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10128",
+              "id": "10128",
+              "name": "Synchronization"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
+    "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+    "id": "10131",
+    "name": "Templates",
+    "assigneeType": "PROJECT_DEFAULT",
+    "realAssigneeType": "PROJECT_DEFAULT",
+    "isAssigneeTypeValid": false,
+    "project": "SP",
+    "projectId": 11349,
+    "relatedIssues": [
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51268",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51268",
+        "key": "SP-164",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+              "id": "10131",
+              "name": "Templates"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51265",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51265",
+        "key": "SP-161",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+              "id": "10131",
+              "name": "Templates"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51262",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51262",
+        "key": "SP-158",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10129",
+              "id": "10129",
+              "name": "Frontend"
+            },
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+              "id": "10131",
+              "name": "Templates"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51261",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51261",
+        "key": "SP-157",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10129",
+              "id": "10129",
+              "name": "Frontend"
+            },
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+              "id": "10131",
+              "name": "Templates"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51256",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51256",
+        "key": "SP-152",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+              "id": "10131",
+              "name": "Templates"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51253",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51253",
+        "key": "SP-148",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+              "id": "10131",
+              "name": "Templates"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51248",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51248",
+        "key": "SP-144",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            },
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+              "id": "10131",
+              "name": "Templates"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51236",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51236",
+        "key": "SP-132",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+              "id": "10131",
+              "name": "Templates"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51230",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51230",
+        "key": "SP-126",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            },
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+              "id": "10131",
+              "name": "Templates"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51221",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51221",
+        "key": "SP-117",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+              "id": "10131",
+              "name": "Templates"
+            }
+          ]
+        }
+      },
+      {
+        "expand": "operations,versionedRepresentations,editmeta,changelog,renderedFields",
+        "id": "51220",
+        "self": "https://herocoders.atlassian.net/rest/api/3/issue/51220",
+        "key": "SP-116",
+        "fields": {
+          "components": [
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10130",
+              "id": "10130",
+              "name": "Backend"
+            },
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10129",
+              "id": "10129",
+              "name": "Frontend"
+            },
+            {
+              "self": "https://herocoders.atlassian.net/rest/api/3/component/10131",
+              "id": "10131",
+              "name": "Templates"
+            }
+          ]
+        }
+      }
+    ]
+  }
+]
